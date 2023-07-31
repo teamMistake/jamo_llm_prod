@@ -16,7 +16,7 @@ JAMO(자모)는 세마고등학교에서 R&E 연구를 하고 있는 학생들�
 **깃허브 레파지토리 클론**
 
 ```bash
-git clone https://github.com/yoonhero/jamo_llm
+git clone https://github.com/teamMistake/jamo_llm_prod
 ```
 
 **패키지 다운로드**
